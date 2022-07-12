@@ -16,7 +16,7 @@ shell utilities:
 [http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz](http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz)
 
 # or  
- using the wget command
+ using the wget command:-
 
 `!wget http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`  
 
@@ -27,7 +27,6 @@ the same name in the annotations/trimaps/ folder (such as annotations/trimaps/
 Abyssinian_1.png)
 
 # Model
-https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png
 
 Model Architecture: 
 ![alt text][logo]
