@@ -29,16 +29,18 @@ Abyssinian_1.png)
 https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png
 
 Model Architecture: 
-![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png"Logo Title Text 1")
+![alt text][logo]
+
+[logo]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png "Model Architecture"
 
 
 # Accuracy: 
+![alt text][logo]
 
-![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/Capture.PNG"Logo Title Text 1")
+[logo]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/Capture.PNG "Accuracy"
 
 # Model Predictions:
 ![alt text][logo]
 
-[logo]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG "Logo Title Text 2"
+[logo]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG "Model Prediction"
 
-![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG"Logo Title Text 1")
