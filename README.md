@@ -37,5 +37,8 @@ Model Architecture:
 ![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/Capture.PNG"Logo Title Text 1")
 
 # Model Predictions:
+![alt text][logo]
+
+[logo]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG "Logo Title Text 2"
 
 ![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG"Logo Title Text 1")
