@@ -22,8 +22,15 @@ The input pictures are stored as JPG files in the images/ folder (such as images
 the same name in the annotations/trimaps/ folder (such as annotations/trimaps/
 Abyssinian_1.png)
 
-#Model
+# Model
+https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png
+
+Model Architecture: 
+![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png"Logo Title Text 1")
 
 
+# Accuracy: 
+![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/Capture.PNG"Logo Title Text 1")
 
-#Result
+# Model Predictions:
+![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG"Logo Title Text 1")
