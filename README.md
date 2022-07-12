@@ -31,7 +31,7 @@ Abyssinian_1.png)
 Model Architecture: 
 ![alt text][logo1]
 
-[logo1]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/IS_model.png "Model Architecture"
+[logo1]: https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/Capture1.png "Model Architecture"
 
 
 # Accuracy: 
