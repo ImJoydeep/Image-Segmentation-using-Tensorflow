@@ -14,8 +14,11 @@ Let’s start by downloading and uncompressing our dataset, using the wget and t
 shell utilities:
 [http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz](http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz)
 [http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz](http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz)
-#or
-`!wget http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`
+
+# or  
+
+`!wget http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`  
+
 `!wget http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz`
 
 The input pictures are stored as JPG files in the images/ folder (such as images/Abyssinian_1.jpg), and the corresponding segmentation mask is stored as a PNG file with
@@ -30,7 +33,9 @@ Model Architecture:
 
 
 # Accuracy: 
+
 ![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/Capture.PNG"Logo Title Text 1")
 
 # Model Predictions:
+
 ![alt text](https://github.com/ImJoydeep/Image-Segmentation-using-Tensorflow/blob/main/image/pred.PNG"Logo Title Text 1")
