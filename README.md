@@ -10,12 +10,13 @@ image, with a single color channel where each integer value corresponds to the c
  3 (contour)
  
  
-Let’s start by downloading and uncompressing our dataset, using the wget and tar
+Let’s start by downloading and uncompressing our dataset
 shell utilities:
 [http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz](http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz)
 [http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz](http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz)
 
 # or  
+# using the wget command
 
 `!wget http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`  
 
