@@ -18,9 +18,9 @@ shell utilities:
 # or  
  using the wget command:-
 
-`!wget http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`  
+` wget http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`  
 
-`!wget http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz`
+` wget http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz`
 
 The input pictures are stored as JPG files in the images/ folder (such as images/Abyssinian_1.jpg), and the corresponding segmentation mask is stored as a PNG file with
 the same name in the annotations/trimaps/ folder (such as annotations/trimaps/
