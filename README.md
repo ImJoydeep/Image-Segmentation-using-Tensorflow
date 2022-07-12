@@ -16,7 +16,7 @@ shell utilities:
 [http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz](http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz)
 
 # or  
-# using the wget command
+ using the wget command
 
 `!wget http:/ /www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz`  
 
